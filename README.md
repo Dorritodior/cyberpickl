@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @cyberpickl
 - 👀 I’m interested in AI, coding 
 - 🌱 I’m currently learning JavaScript and Python
+- I'm 19  years old
+
 
 
 <!---
